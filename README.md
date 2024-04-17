@@ -1,5 +1,4 @@
 # MYMERN TEMPLATE
-### Author: Pedro Henrique Rincon Santos
 
 This is the best "MERN + vite + typescript" template ever created.
 
